@@ -2,7 +2,7 @@
 mindmap
   root((Login Function))
 
-    Login Inputs
+    Authentication Methods
       Credential-based Login
       Passwordless Login
       Device-based Login
