@@ -17,7 +17,7 @@ mindmap
         Critical Path Testing
         Positive Testing
         Negative Testing
-        Equivalence Partitioning (EP) Testing
+        Equivalence Partitioning Testing
          
         
 
