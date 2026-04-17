@@ -2,11 +2,11 @@
 mindmap
   root((Login Function))
 
-    Login
-      Login via Google
-      Login with credentials
+    Login Inputs
+      Credential-based Login
+      Passwordless Login
+      Device-based Login
       
-      Sort
 
     Testing Types
 
