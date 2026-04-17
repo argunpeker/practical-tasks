@@ -6,107 +6,27 @@ mindmap
       Date
       Guests
       Sort
-    Testing Types
-      Functional Testing
-         Smoke Testing
-         Critical Path Testing
-         Positive Testing
-         Negative Testing
-         Boundary Testing
-      Non-Functional Testing
-         Performance Testing
-         Usability Testing
-         Compatibility Testing
-         Internationalization Testing
-         Localization Testing
-         Accessibility Testing
-    Test Levels
-       Integration Testing
-       System Testing
-       Acceptance Testing
-    Test Methods
-       Black-Box Testing
-       Grey-Box Testing
-       White-Box Testing 
-
-    Booking Flow
-      Room Selection
-      Date Selection
-      Payment
-      Confirmation
-    Testing Types
-       Functional Testing
-          Smoke Testing
-          Critical Path Testing
-          Positive Testing
-          Negative Testing
-       Non-Functional Testing
-          Security Testing
-          Performance Testing
-          Usability Testing
-          Compatibility Testing
-          Internationalization Testing
-          Accessibility Testing
-          Compliance Testing
-    Test Levels
-       Integration Testing
-       System Testing
-       Acceptance Testing
-    Test Methods
-       Black-Box Testing
-       Grey-Box Testing
-       White-Box Testing
-
-        
-
-
-
-    User Account
-      Login
-      Account Information
-      Reservations
-    Testing Types
-      Functional Testing
-        
-      Non-Functional Testing
-         
-    Test Levels
-      
-    Test Methods
-        
-
-
-
-    Payment
-      Card
-      Refund
-      Payment Type
-    Testing Types
-      Functional Testing
-        
-      Non-Functional Testing
-         
-    Test Levels
-      
-    Test Methods
-        
-
+        Testing Types
+           Functional Testing
+              Smoke Testing
+              Critical Path Testing
+              Positive Testing
+              Negative Testing
+              Boundary Testing
+           Non-Functional Testing
+              Performance Testing
+              Usability Testing
+              Compatibility Testing
+              Internationalization Testing
+              Localization Testing
+              Accessibility Testing
+        Test Levels
+           Integration Testing
+           System Testing
+           Acceptance Testing
+        Test Methods
+           Black-Box Testing
+           Grey-Box Testing
+           White-Box Testing 
 
   
-    Reviews
-      Write Review
-      Filter
-      Sort
-      Rating
-    Testing Types
-      Functional Testing
-        
-      Non-Functional Testing
-         
-    Test Levels
-      
-    Test Methods
-        
-
-
-   
