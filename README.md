@@ -1,1 +1,1 @@
-# epam-practical-tasks
+Practical-tasks
