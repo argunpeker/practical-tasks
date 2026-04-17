@@ -28,7 +28,7 @@ mindmap
        Grey-Box Testing
        White-Box Testing 
 
-        Booking Flow
+    Booking Flow
       Room Selection
       Date Selection
       Payment
