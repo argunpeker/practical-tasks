@@ -16,6 +16,7 @@ mindmap
       Non-Functional Testing
          Performance Testing
          Usability Testing
+         Compatibility Testing
          Internationalization Testing
          Localization Testing
          Accessibility Testing
@@ -34,13 +35,28 @@ mindmap
       Payment
       Confirmation
     Testing Types
-      Functional Testing
-        
-      Non-Functional Testing
-         
+       Functional Testing
+          Smoke Testing
+          Critical Path Testing
+          Positive Testing
+          Negative Testing
+       Non-Functional Testing
+          Security Testing
+          Performance Testing
+          Usability Testing
+          Compatibility Testing
+          Internationalization Testing
+          Accessibility Testing
+          Compliance Testing
     Test Levels
-      
+       Integration Testing
+       System Testing
+       Acceptance Testing
     Test Methods
+       Black-Box Testing
+       Grey-Box Testing
+       White-Box Testing
+
         
 
 
