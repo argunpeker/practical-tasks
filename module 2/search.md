@@ -1,6 +1,6 @@
 ```mermaid
 mindmap
-  root((Search Function Testing))
+  root((Search Function))
 
     Search Inputs
       Location
