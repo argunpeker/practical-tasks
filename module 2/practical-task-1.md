@@ -1,5 +1,5 @@
 mindmap
-  root((Booking.com Mind-Map))
+  root((Booking.com Testing))
 
     Search
       Location
