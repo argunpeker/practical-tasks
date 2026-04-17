@@ -2,7 +2,7 @@
 mindmap
   root((Payment Function))
 
-    Payment Input
+    Payment Components
       Payment Methods
       Refunds
       Discounts
@@ -14,7 +14,6 @@ mindmap
       Functional Testing
         Smoke Testing
         Critical Path Testing
-        E2E Testing
         EP Testing 
         Positive Testing
         Negative Testing
