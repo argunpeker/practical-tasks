@@ -1,10 +1,11 @@
 ```mermaid
 mindmap
-  root((User Account Function))
-      Search Inputs
-      Location
-      Date
-      Guests
+  root((Login Function))
+
+    Login
+      Login via Google
+      Login with credentials
+      
       Sort
 
     Testing Types
