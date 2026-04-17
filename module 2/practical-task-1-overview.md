@@ -3,6 +3,6 @@ mindmap
   root((Online Booking App Testing))
 
     Search Function
-    Payment Components
+    Payment Function
     Login Function
-    Reviews 
+    Review Function 
