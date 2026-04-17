@@ -7,7 +7,8 @@ mindmap
       Guests
       Sort
     Testing Types
-      Functional Testing: Smoke Testing, Critical Path Testing
+      Functional Testing
+         Smoke Testing, Critical Path Testing
       Non-Functional Testing: Usability Testing, Internationalizing Testing, Localization Testing, Accessibility Testing
     Test Levels
        Integration Testing
