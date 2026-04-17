@@ -28,4 +28,69 @@ mindmap
        Grey-Box Testing
        White-Box Testing 
 
+        Booking Flow
+      Room Selection
+      Date Selection
+      Payment
+      Confirmation
+    Testing Types
+      Functional Testing
+        
+      Non-Functional Testing
+         
+    Test Levels
+      
+    Test Methods
+        
+
+
+
+    User Account
+      Login
+      Account Information
+      Reservations
+    Testing Types
+      Functional Testing
+        
+      Non-Functional Testing
+         
+    Test Levels
+      
+    Test Methods
+        
+
+
+
+    Payment
+      Card
+      Refund
+      Payment Type
+    Testing Types
+      Functional Testing
+        
+      Non-Functional Testing
+         
+    Test Levels
+      
+    Test Methods
+        
+
+
+  
+    Reviews
+      Write Review
+      Filter
+      Sort
+      Rating
+    Testing Types
+      Functional Testing
+        
+      Non-Functional Testing
+         
+    Test Levels
+      
+    Test Methods
+        
+
+
    
