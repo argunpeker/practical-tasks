@@ -28,35 +28,4 @@ mindmap
        Grey-Box Testing
        White-Box Testing 
 
-    Booking Flow
-      Room Selection
-      Date Selection
-      Payment
-      Confirmation
-    Testing Types
-
-
-
-    User Account
-      Login
-      Account Information
-      Reservations
-    Testing Types
-
-
-
-    Payment
-      Card
-      Refund
-      Payment Type
-    Testing Types
-
-
-  
-    Reviews
-      Write Review
-      Filter
-      Sort
-      Rating
-    Testing Types
-
+   
