@@ -1,3 +1,4 @@
+```mermaid
 mindmap
   root((Booking.com Testing))
 
