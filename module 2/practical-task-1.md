@@ -8,11 +8,25 @@ mindmap
       Sort
     Testing Types
       Functional Testing
-         Smoke Testing, Critical Path Testing
-      Non-Functional Testing: Usability Testing, Internationalizing Testing, Localization Testing, Accessibility Testing
+         Smoke Testing
+         Critical Path Testing
+         Positive Testing
+         Negative Testing
+         Boundary Testing
+      Non-Functional Testing
+         Performance Testing
+         Usability Testing
+         Internationalization Testing
+         Localization Testing
+         Accessibility Testing
     Test Levels
        Integration Testing
        System Testing
+       Acceptance Testing
+    Test Methods
+       Black-Box Testing
+       Grey-Box Testing
+       White-Box Testing 
 
     Booking Flow
       Room Selection
