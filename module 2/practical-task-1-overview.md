@@ -1,6 +1,6 @@
 ```mermaid
 mindmap
-  root((Booking.com Testing))
+  root((Online Booking App Testing))
 
     Search
     Payment
