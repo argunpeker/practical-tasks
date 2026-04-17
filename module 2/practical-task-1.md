@@ -1,6 +1,6 @@
 ```mermaid
 mindmap
-  root((Booking.com Testing))
+  root((Booking.com Mind-Map))
     Search
       Location
       Date
