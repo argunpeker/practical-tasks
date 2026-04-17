@@ -1,7 +1,7 @@
 mindmap
   root((Booking.com Testing))
 
-    Search
+  Search
       Location
       Date
       Guests
