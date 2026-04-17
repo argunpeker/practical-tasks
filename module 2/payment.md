@@ -2,25 +2,26 @@
 mindmap
   root((Payment Function))
 
-    Authentication Methods
-      Credential-based Login
-      Passwordless Login
-      Device-based Login
+    Payment Input
+      Payment Methods
+      Refunds
+      Discounts
+      Confirmation
+      Authorization
       
 
     Testing Types
-
       Functional Testing
         Smoke Testing
         Critical Path Testing
-        Extended Testing  
+        E2E Testing
+        EP Testing 
         Positive Testing
         Negative Testing
         Boundary Testing
 
       Non-Functional Testing
         Security Testing
-        Compliance Testing
         Performance Testing
         Usability Testing
         Internationalization Testing
