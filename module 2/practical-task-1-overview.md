@@ -2,7 +2,7 @@
 mindmap
   root((Online Booking App Testing))
 
-    Search
-    Payment
-    User Account
-    Reviews
+    Search Function
+    Payment Components
+    Login Function
+    Reviews 
