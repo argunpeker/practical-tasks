@@ -13,19 +13,22 @@ mindmap
       Functional Testing
         Smoke Testing
         Critical Path Testing
+        Extended Testing  
         Positive Testing
         Negative Testing
         Boundary Testing
 
       Non-Functional Testing
+        Security Testing
+        Compliance Testing
         Performance Testing
         Usability Testing
-        Compatibility Testing
         Internationalization Testing
         Localization Testing
         Accessibility Testing
 
     Test Levels
+      Unit Testing
       Integration Testing
       System Testing
       Acceptance Testing
