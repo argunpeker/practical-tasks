@@ -25,16 +25,17 @@ Pop-up:
 ID_2.2. Report Export: File Format Availability
 
 File Format Availability:
-- Raporların boyutu doğru hesaplanıyor mı? (Functional
-- Raporların boyutları hedeflenen süreler içerisinde hesaplanıyor mu?
-- Raporların boyutları kullanıcı Export kısmını açmadan hesaplanmış oluyor mu?
-- Raporların boyutları kullanıcı Export kısmını açtığında henüz hesaplanmamış olursa sistem ne yapıyor?
-- Desteklenmeyen dosya formatları kullanıcıya açıklayıcı bir şekilde iletiliyor mu?
-- Raporların boyutu hesaplanırken loading spinner görünüyor mu?
-- Belge boyutuna göre kullanılabilecek olan dosya formatları doğru ayrılıyor mu?
-- Dosya boyutu limitsiz olan formatlarda export yapılırken çok yüksek boyutlu dosyaların işlenmesi problem yaratıyor mu?
-- Yükseltilmiş PDF dosyası payroll register PST reports haricinde export yapmaya izin veriyor mu?
-- Export edilen dosyalar çalışıyor mu?
+- Raporların boyutu doğru hesaplanıyor mı? → Functional
+- Raporların boyutları hedeflenen süreler içerisinde hesaplanıyor mu? → Performance 
+- Raporların boyutları kullanıcı Export kısmını açmadan hesaplanmış oluyor mu? → Functional
+- Raporların boyutları kullanıcı Export kısmını açtığında henüz hesaplanmamış olursa sistem ne yapıyor? → Functional (Negative Testing)
+- Desteklenmeyen dosya formatları kullanıcıya açıklayıcı bir şekilde iletiliyor mu? → Functional + Usability
+- Raporların boyutu hesaplanırken loading spinner görünüyor mu? → Functional (UI)
+- Belge boyutuna göre kullanılabilecek olan dosya formatları doğru ayrılıyor mu? → Functional (BVA) + (EP) 
+- Dosya boyutu limitsiz olan formatlarda export yapılırken çok yüksek boyutlu dosyaların işlenmesi problem yaratıyor mu? → Performance (Stress Testing)
+- Yükseltilmiş PDF dosyası payroll register PST reports haricinde export yapmaya izin veriyor mu? → Functional + Security (Allowed options)
+- Export edilen dosyalar çalışıyor mu? → Functional + Structural
+- Yoğun trafik altındayken dosya boyutları beklenen sürelerde hesaplanıyor mu? → Performance (Load Testing)
 
 
 
